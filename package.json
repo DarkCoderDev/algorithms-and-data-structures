@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "algorithms and data structures.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "DarkCoderDev",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "28.1.1"
+  }
+}
